@@ -32,7 +32,7 @@
   .header{
     display: flex;
     justify-content: space-between;
-    width: 900px;
+    width: 1100px;
   }
   .first-sec{
     color: #fff;
@@ -43,7 +43,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 900px;
+    width: 1100px;
   }
   .firstimage img{
     border:1px solid white;
@@ -63,7 +63,7 @@
     color: #f9faf8;
   }
   .description{
-    width: 400px;
+    width: 600px;
     
   }
   .info img{
@@ -82,7 +82,7 @@
     margin-bottom: 40px;
   }
   .secondtitle{
-    width: 900px;
+    width: 1000px;
     display: flex;
     justify-content: center;
     
@@ -91,7 +91,7 @@
     margin: 30px;
   }
   .imgcontainer {
-    width: 900px;
+    width: 1100px;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -110,7 +110,7 @@
     
   }
   .quote{
-    width: 900px;
+    width: 1100px;
     display: flex;
     justify-content: center;
     margin: 20px;
@@ -120,9 +120,11 @@
     color:#1f2937;
     font-size: 25px;
     font-style: italic;
+    display: flex;
+    justify-content: center;
   }
   .author{
-    width: 900px;
+    width: 1100px;
     display: flex;
     justify-content: flex-end;
   }
@@ -137,7 +139,7 @@
   
   .foursec-container {
     background-color: #3882f6;
-    width: 900px;
+    width: 1100px;
     border-radius: 15px;
     display: flex;
     justify-content: space-around;
